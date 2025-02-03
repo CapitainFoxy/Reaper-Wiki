@@ -2,8 +2,10 @@
 
 Szeretettel köszöntelek Reaper Discord bot dokumentációjában!
 
-**Bot meghívása:** https://dsc.gg/reaperbot
+## Bot meghívása:
 
-**Support**
+https://dsc.gg/reaperbot
+
+## Support
 
 [Itt találod a segítséget](.github/SUPPORT.md)
