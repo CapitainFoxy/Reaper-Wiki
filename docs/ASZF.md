@@ -27,9 +27,6 @@ A felhasználóknak tiszteletben kell tartaniuk a Discord irányelveit és szab�
 
 A fejlesztő fenntartja a jogot az ÁSZF módosítására. A változtatásokról a felhasználókat értesítjük, és a Bot további használata a módosított feltételek elfogadását jelenti.
 
-### 6. Kapcsolat
-
-Bármilyen kérdés vagy észrevétel esetén lépjen kapcsolatba velünk a [Discord](https://dsc.gg/reaper-support) szerverünkön!
 
 
 
@@ -59,5 +56,11 @@ Az Ön adatait a lehető legnagyobb gondossággal védjük. Megfelelő technikai
 ### 5. Változtatások
 
 Az Adatvédelmi Irányelvek időről időre frissülhetnek. A frissítésekről értesítést küldünk, és a Bot további használata az új irányelvek elfogadását jelenti.
+
+
+
+## Kapcsolat
+
+Bármilyen kérdés vagy észrevétel esetén lépjen kapcsolatba velünk a [Discord](https://dsc.gg/reaper-support) szerverünkön vagy email formájában (info@reaperbot.probaljaki.hu) !
 
  
