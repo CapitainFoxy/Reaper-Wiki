@@ -61,6 +61,6 @@ Az Adatvédelmi Irányelvek időről időre frissülhetnek. A frissítésekről 
 
 ## Kapcsolat
 
-Bármilyen kérdés vagy észrevétel esetén lépjen kapcsolatba velünk a [Discord](https://dsc.gg/reaper-support) szerverünkön vagy email formájában (info@reaperbot.probaljaki.hu) !
+Bármilyen kérdés vagy észrevétel esetén lépjen kapcsolatba velünk a [Discord](https://dsc.gg/reaper-support) szerverünkön vagy email formájában (info@reaperbot.fejlessz.hu) !
 
  
